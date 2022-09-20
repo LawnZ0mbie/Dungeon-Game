@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Aaron's Laptop\source\repos\2DSpriteDungeon - Copy\2DSpriteDungeon\</FILEPATH>
+      <FILENAME>RoomRenderer.h</FILENAME>
+      <LINE>16</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'DungeonGame::RoomRenderer::WallTexture' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>DungeonGame::RoomRenderer::{ctor}</FUNCTION>
+    <DECORATED>??0RoomRenderer@DungeonGame@@QAE@XZ</DECORATED>
+    <FUNCLINE>16</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>DungeonGame::RoomRenderer::WallTexture</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Aaron's Laptop\source\repos\2DSpriteDungeon - Copy\2DSpriteDungeon\</FILEPATH>
+      <FILENAME>Item.h</FILENAME>
+      <LINE>17</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'DungeonGame::Item::ItemIndex' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>DungeonGame::Item::{ctor}</FUNCTION>
+    <DECORATED>??0Item@DungeonGame@@QAE@XZ</DECORATED>
+    <FUNCLINE>17</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>DungeonGame::Item::ItemIndex</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Aaron's Laptop\source\repos\2DSpriteDungeon - Copy\2DSpriteDungeon\</FILEPATH>
+      <FILENAME>Foe.h</FILENAME>
+      <LINE>21</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'DungeonGame::Foe::FoeIndex' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>DungeonGame::Foe::{ctor}</FUNCTION>
+    <DECORATED>??0Foe@DungeonGame@@QAE@XZ</DECORATED>
+    <FUNCLINE>21</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>DungeonGame::Foe::FoeIndex</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Aaron's Laptop\source\repos\2DSpriteDungeon - Copy\2DSpriteDungeon\</FILEPATH>
+      <FILENAME>Projectile.h</FILENAME>
+      <LINE>17</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'DungeonGame::Projectile::ProjectileIndex' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>DungeonGame::Projectile::{ctor}</FUNCTION>
+    <DECORATED>??0Projectile@DungeonGame@@QAE@XZ</DECORATED>
+    <FUNCLINE>17</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>DungeonGame::Projectile::ProjectileIndex</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Aaron's Laptop\source\repos\2DSpriteDungeon - Copy\2DSpriteDungeon\</FILEPATH>
+      <FILENAME>HUD.h</FILENAME>
+      <LINE>21</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'DungeonGame::HUD::GameWonTexture' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>DungeonGame::HUD::{ctor}</FUNCTION>
+    <DECORATED>??0HUD@DungeonGame@@QAE@XZ</DECORATED>
+    <FUNCLINE>21</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>DungeonGame::HUD::GameWonTexture</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>
